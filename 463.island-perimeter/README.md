@@ -9,5 +9,7 @@ Example:
  [1,1,0,0]]
 
 Answer: 16
-Explanation: The perimeter is the 16 yellow stripes in the image below:
+Explanation: The perimeter is the 16 yellow stripes in the image:
+
+
 ![image](https://leetcode.com/static/images/problemset/island.png)
